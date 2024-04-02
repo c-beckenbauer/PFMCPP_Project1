@@ -109,14 +109,13 @@ bird.chirp();
 //  action 3:    the bird eats
 bird.eat();
 //  8)
-//  Noun:        ball
-//  action 1:    the ball bounces
-ball.bounce();
-//  action 2:    the ball rolls
-ball.roll();
-//  action 3:    the ball flies
-ball.fly();
-
+//  Noun:        treeInTheForest
+//  action 1:    the treeInTheForest growsFast
+treeInTheForest.growFast();
+//  action 2:    the treeInTheForest growsSlow
+treeInTheForest.growSlow();
+//  action 3:    the treeInTheForest bloomsFull
+treeInTheForest.bloomFull();
 //  9)
 //  Noun:        dog
 //  action 1:    the dog barks
